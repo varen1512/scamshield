@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ScamShield local datasets
+data/
+
+# macOS system files
+.DS_Store
+
+# Additional environment files
+.env.*

@@ -227,3 +227,5 @@ data/
 
 # Additional environment files
 .env.*
+# Trained model artifacts
+models/
